@@ -1,0 +1,10 @@
+{
+  "name": "Remix: stuckco",
+  "description": "A premium luxury coffee and cigar lounge experience in Kesawan, Medan with automatic AI sommelier recommendations, artisan menus, and reservations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
